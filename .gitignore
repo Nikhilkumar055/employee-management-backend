@@ -1,0 +1,10 @@
+node_modules
+dist
+logs
+.env
+.vscode
+.scannerwork
+coverage
+role-setup.ts
+influxdb.ts
+package-lock.json

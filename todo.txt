@@ -1,0 +1,9 @@
+# multiple topic subscribe with config getter and setter 
+# token validation 
+  - handle token validation scenarios
+  - create stat based on token validation on each tracked data
+# licence server integration
+  - licence validation  (subscription validation with device Id)
+# differential pressure data
+# health data
+# influx db wrapper
