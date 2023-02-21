@@ -1,14 +1,3 @@
-/*
- * File: app.ts
- * Project: src
- * File Created: Tuesday, 24th December 2019 12:26:05 pm
- * Author: Adithya Sreyaj
- * -----
- * Last Modified: Wednesday, 26th February 2020 5:27:42 pm
- * Modified By: Adithya Sreyaj<adithya@altorumleren.com>
- * -----
- */
-
 import express from "express";
 import mongoose from "mongoose";
 import { logger } from "./config/logger.config";
